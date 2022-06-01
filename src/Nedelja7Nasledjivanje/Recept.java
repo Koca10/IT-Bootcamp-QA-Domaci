@@ -1,6 +1,5 @@
-package Nasledjivanje;
+package Nedelja7Nasledjivanje;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class Recept {

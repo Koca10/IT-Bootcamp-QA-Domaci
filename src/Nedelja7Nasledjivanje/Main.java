@@ -1,4 +1,4 @@
-package Nasledjivanje;
+package Nedelja7Nasledjivanje;
 
 import java.util.*;
 
